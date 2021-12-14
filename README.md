@@ -1,4 +1,14 @@
-<h2 align="center">Oieee, eu sou a Sophia 👋</h2> <br>
+<h2 align="center">Oieee, eu sou a Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> <br>
+<p>Tenho 27 anos, sou estudante de Tecnologia da Informação e também faço parte de um Bootcamp intensivo de seis meses focado em Desenvolvimento Web Fullstack. Fui advogada por quatro anos então sempre exercitei a habilitade de resolver problemas e interpretar a documentação, mas foi só na programação que eu encontrei o meu verdadeiro propósito. </p>
+
+## Um pouco sobre mim :blush:
+
+- :gear: Tenho mais familiaridade com JavaScript, Node.js e React; 
+- 🌱 Atualmente estou estudando C#; 
+- :pushpin: Tenho interesse na área de testes (QA);
+- 🤔 Preciso de ajuda com Docker;
+- 🎉 Fato curioso: Eu AMO carnaval e sou muito noveleira!
+
 
 <div align="center">
   <a href="https://github.com/sophiablazizza">
@@ -8,6 +18,8 @@
 
 <div align="center"><br>
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
