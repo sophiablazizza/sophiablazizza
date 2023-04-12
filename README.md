@@ -1,5 +1,5 @@
 <h2 align="center">Oieee, eu sou a Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> <br>
-<p>Tenho 27 anos, sou estudante de Tecnologia da Informação e também faço parte de um Bootcamp intensivo de seis meses focado em Desenvolvimento Web Fullstack. Fui advogada por quatro anos então sempre exercitei a habilitade de resolver problemas e interpretar a documentação, mas foi só na programação que eu encontrei o meu verdadeiro propósito. </p>
+<p>Tenho 28 anos, sou estudante de Tecnologia da Informação e também fiz parte de um Bootcamp intensivo de seis meses focado em Desenvolvimento Web Fullstack. Fui advogada por cinco anos então sempre exercitei a habilitade de resolver problemas e interpretar a documentação, mas foi só na programação que eu encontrei o meu verdadeiro propósito. Atualmente sou estagiária da Accenture com foco em Desenvolvimento Backend. </p>
 
 ## Um pouco sobre mim :blush:
 
