@@ -1,15 +1,6 @@
-<h2 align="center">Oieee, eu sou a Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> <br>
-<p>Tenho 28 anos, sou estudante de Tecnologia da Informação e também fiz parte de um Bootcamp intensivo de seis meses focado em Desenvolvimento Web Fullstack. Fui advogada por cinco anos então sempre exercitei a habilitade de resolver problemas e interpretar a documentação, mas foi só na programação que eu encontrei o meu verdadeiro propósito. Atualmente sou estagiária da Accenture com foco em Desenvolvimento Backend. </p>
-
-## Um pouco sobre mim :blush:
-
-- :gear: Tenho mais familiaridade com JavaScript, Node.js e React; 
-- 🌱 Atualmente estou estudando C#; 
-- :pushpin: Tenho interesse na área de testes (QA);
-- 🤔 Preciso de ajuda com Docker;
-- 🎉 Fato curioso: Eu AMO carnaval e sou muito noveleira!
-
-
+<h2 align="center">Oi, me chamo Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> <br>
+<p>Fui advogada por aproximadamente 5 anos e no segundo semestre de 2021 fiz transição de carreira para a área tecnológica. Sou Backend Developer com ênfase em .NET na IBM, mas muita vezes também atuo em demandas pontuais no frontend com JavaScript, linguagem na qual iniciei meus estudos e por isso tenho grande familiariedade. Atualmente me dedicando a obter a certificação em AWS.
+  
 <div align="center">
   <a href="https://github.com/sophiablazizza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophiablazizza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
