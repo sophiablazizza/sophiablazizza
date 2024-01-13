@@ -1,5 +1,5 @@
 <h2 align="center">Oi, me chamo Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> <br>
-<p>Fui advogada por aproximadamente 5 anos e no segundo semestre de 2021 fiz transição de carreira para a área tecnológica. Sou Backend Developer com ênfase em .NET na IBM, mas muita vezes também atuo em demandas pontuais no frontend com JavaScript, linguagem na qual iniciei meus estudos e por isso tenho grande familiariedade. Atualmente me dedicando a obter a certificação em AWS.
+<p>Fui advogada por aproximadamente 5 anos e no segundo semestre de 2021 fiz transição de carreira e iniciei uma nova graduação em Tecnologia da Informação. Sou Backend Developer com ênfase em .NET na IBM, mas muita vezes também atuo em demandas pontuais no frontend com JavaScript, linguagem na qual iniciei meus estudos e por isso tenho grande familiariedade. Atualmente me dedicando a obter a certificação em AWS.
   
 <div align="center">
   <a href="https://github.com/sophiablazizza">
